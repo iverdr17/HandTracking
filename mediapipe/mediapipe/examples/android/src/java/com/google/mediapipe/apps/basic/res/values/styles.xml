@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+    <style name="popupTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:background">@color/colorAccent</item>
+        <item name="overlapAnchor">false</item>
+    </style>
+</resources>
